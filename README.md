@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cpvpfemboy
-- 👀 I’m interested in Java , Javascript and urmom
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @prime
+- 👀 I’m interested in music and basketball
+- 🌱 I’m currently learning HTML and Python
 - 💞️ I’m looking to collaborate on uhhhh nothing much
 - 📫 How to reach me instagram ign primetdmomega
 
