@@ -2,7 +2,7 @@
 - 👀 I’m interested in music and basketball
 - 🌱 I’m currently learning HTML and Python
 - 💞️ I’m looking to collaborate on uhhhh nothing much
-- 📫 How to reach me instagram ign primetdmomega
+- 📫 How to reach me discord Prime#6679
 
 <!---
 cpvpfemboy/cpvpfemboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
