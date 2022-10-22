@@ -11,7 +11,7 @@ prime = {
   age: "14",
   status: "Student at [REDACTED]"
   spokenLanguages: ["English", "Hindi"],
-  code: ["Python", "Java", "Python 3", "HTML5", "CSS3", "Javascript"], 
+  code: ["Java", "Python 3", "HTML5", "CSS3", "Javascript"], 
   askMeAbout: ["Web Dev", "Minecraft", "Music"],
   technologies: {
     backEnd: ["None don't ask me],
