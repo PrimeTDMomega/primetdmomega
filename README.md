@@ -20,4 +20,4 @@ prime = {
   }
 }
 ```
-Withered Knights - https://discord.gg/gQPA3dKPUK
+Withered Knights - https://dsc.gg/witheredknights
