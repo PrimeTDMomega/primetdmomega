@@ -11,13 +11,14 @@ prime = {
   age: "14",
   status: "Student at [REDACTED]"
   spokenLanguages: ["English", "Hindi"],
-  code: ["Java", "Python 3", "HTML5", "CSS3", "Javascript"], 
+  code: [Python3 , HTML5 , CSS3 , Javascript], 
   askMeAbout: ["Web Dev", "Minecraft", "Music"],
   technologies: {
     backEnd: ["None don't ask me],
-    frontEnd: ["Angular", "REACT"],
+    frontEnd: ["SASS, Vanilla Javascript"],
     databases: [" ._. "]
   }
 }
 ```
-Withered Knights - https://dsc.gg/witheredknights
+Discord - https://dsc.gg/witheredknights
+My Website - https://primetdmomega.github.io/
