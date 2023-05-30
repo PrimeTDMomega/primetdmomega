@@ -15,7 +15,7 @@ prime = {
   askMeAbout: ["Web Dev", "Minecraft", "Music"],
   technologies: {
     backEnd: ["None don't ask me],
-    frontEnd: ["SASS, Vanilla Javascript"],
+    frontEnd: ["SASS/SCSS, Vanilla Javascript"],
     databases: [" ._. "]
   }
 }
