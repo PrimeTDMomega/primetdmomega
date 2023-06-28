@@ -8,7 +8,7 @@
 prime = {
   pronouns: "He | Him",
   country: "India",
-  age: "14",
+  age: "15",
   status: "Student at [REDACTED]"
   spokenLanguages: ["English", "Hindi"],
   code: [Python3 , HTML5 , CSS3 , Javascript], 
